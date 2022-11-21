@@ -1,0 +1,15 @@
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.link-list{
+    max-width: 600px;
+    min-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(45,45,45,0.5)
+    
+    
+}
